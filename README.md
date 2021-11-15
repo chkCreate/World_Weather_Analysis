@@ -10,16 +10,16 @@ Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest ci
 
 * See folder [Weather_Database](Weather_Database/) for corresponding scripts and files.: 
 
-    * [Weather_Database.ipynb]() for the Jupyter Notebook file created to retrieve the weather data.
+    * [Weather_Database.ipynb](Weather_Database/Weather_Database.ipynb) for the Jupyter Notebook file created to retrieve the weather data.
 
-    * The output DataFrame as a CSV file named [WeatherPy_Database.csv]().
+    * The output DataFrame as a CSV file named [WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv).
 
 ### Create a Customer Travel Destinations Map
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-* See folder [Vacation_Search]() for the following scripts and files.:
+* See folder [Vacation_Search](Vacation_Search/) for the following scripts and files.:
 
-    * [Vacation_Search.ipynb]() for the Jupyter Notebook file with th script to filter the DataFrame for the creation of a marker layer map.
+    * [Vacation_Search.ipynb](Vacation_Search/Vacation_Search.ipynb) for the Jupyter Notebook file with th script to filter the DataFrame for the creation of a marker layer map.
 
     * The output DataFrame as a CSV file named [WeatherPy_vacation.csv]().
 
@@ -30,7 +30,7 @@ Use input statements to retrieve customer weather preferences, then use those pr
 ### Create a Travel Itinerary Map
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
-* See folder [Vacation_Itinerary]() for the following scripts and files.:
+* See folder [Vacation_Itinerary](Vacation_Itinerary/) for the following scripts and files.:
 
     * [Vacation_Itinerary.ipynb]() for the Jupyter Notebook file with th script to retrieve four travel itineraries and marker layer maps. 
 
