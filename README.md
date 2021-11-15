@@ -25,7 +25,7 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
     * The output image of the marker layer map named [WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png).
 
-![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png).
+<!--- ![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png).--->
 
 ### Create a Travel Itinerary Map
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
@@ -36,11 +36,11 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
     * The output image of a directions layer map between the cities and the travel map is named [WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png).
 
-    ![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
+    <!---![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)--->
     
     * The output image of the marker layer map with a pop-up marker for the cities in the itinerary created is named [WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png).
 
-    ![WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+    <!---![WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)--->
 
 ---
 
