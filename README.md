@@ -8,13 +8,11 @@ Retrieve world weather data with OpenWeatherMap, and create a Customer Travel De
 ### Retrieve Weather Data
 Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data gathered in this module, use API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
 
-* See folder [Weather_Database]() for corresponding scripts and files.: 
+* See folder [Weather_Database](Weather_Database/) for corresponding scripts and files.: 
 
     * [Weather_Database.ipynb]() for the Jupyter Notebook file created to retrieve the weather data.
 
     * The output DataFrame as a CSV file named [WeatherPy_Database.csv]().
-
-![WeatherPy_Database.csv]().
 
 ### Create a Customer Travel Destinations Map
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
