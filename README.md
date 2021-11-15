@@ -21,26 +21,26 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
     * [Vacation_Search.ipynb](Vacation_Search/Vacation_Search.ipynb) for the Jupyter Notebook file with th script to filter the DataFrame for the creation of a marker layer map.
 
-    * The output DataFrame as a CSV file named [WeatherPy_vacation.csv]().
+    * The output DataFrame as a CSV file named [WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv).
 
-    * The output image of the marker layer map named [WeatherPy_vacation_map.png]().
+    * The output image of the marker layer map named [WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png).
 
-![WeatherPy_vacation_map.png]().
+![WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png).
 
 ### Create a Travel Itinerary Map
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
 * See folder [Vacation_Itinerary](Vacation_Itinerary/) for the following scripts and files.:
 
-    * [Vacation_Itinerary.ipynb]() for the Jupyter Notebook file with th script to retrieve four travel itineraries and marker layer maps. 
+    * [Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb) for the Jupyter Notebook file with th script to retrieve four travel itineraries and marker layer maps. 
 
-    * The output image of a directions layer map between the cities and the travel map is named [WeatherPy_travel_map.png]().
+    * The output image of a directions layer map between the cities and the travel map is named [WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png).
 
-    ![WeatherPy_travel_map.png]()
+    ![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
     
-    * The output image of the marker layer map with a pop-up marker for the cities in the itinerary created is named [WeatherPy_travel_map_markers.png]().
+    * The output image of the marker layer map with a pop-up marker for the cities in the itinerary created is named [WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png).
 
-    ![WeatherPy_travel_map_markers.png]()
+    ![WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ---
 
